@@ -1,6 +1,12 @@
 # 💫 About Me:
-### Hi there, I'm Rafi 👋<br><br>```go<br>package main<br><br>import "fmt"<br><br>func main() {<br>    fmt.Println("Building fast microservices, scalable web apps, & exploring the cosmos! 🚀")<br>}
+### Hi there, I'm Rafi 👋<br><br>```go
+package main
 
+import "fmt"
+
+func main() {
+    fmt.Println("Building fast microservices, scalable web apps, & exploring the cosmos! 🚀")
+}
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/raffyshira/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafiahsiraprayoga@gmail.com) 
