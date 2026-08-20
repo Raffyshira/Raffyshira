@@ -1,4 +1,9 @@
-# Rafi Ahsira Prayoga
+# Hi, I'm Rafi Ahsira Prayoga! 👋
+
+> 🇮🇩 **Still learning to become Backend Explorer**  
+> Building fast microservices, scalable web apps, and enjoying the journey one `go run` at a time. Always open to collaborate, learn, and discuss tech or space stuff! 🚀
+
+---
 
 ```go
 package main
@@ -22,15 +27,15 @@ func (d Developer) SayHello() {
 
 func main() {
     me := Developer{
-        Name    : "Rafi Ahsira Prayoga",
-        Location: "Banyuwangi, Indonesia 🇮🇩"
-        Role    : "Still Learning as Backend Developer",
-        Bio     : "Passionate about building fast microservices, scalable web apps, & exploring the cosmos! 🌌",
-        Socials : map[string]string{
+        Name        : "Rafi Ahsira Prayoga",
+        Location    : "Banyuwangi, Indonesia 🇮🇩"
+        Role        : "Still Learning as Backend Developer",
+        Bio         : "Passionate about building fast microservices, scalable web apps, & exploring the cosmos! 🌌",
+        Socials     : map[string]string{
             "Instagram": "[https://www.instagram.com/raffyshira/](https://www.instagram.com/raffyshira/)",
             "Email":     "mailto:rafiahsiraprayoga@gmail.com",
         },
-        Stack   : []string{
+        Stack       : []string{
             "Go", "TypeScript", "Postman", "Redis", 
             "Docker", "Kubernetes", "Cloudflare", "AWS",
         },
